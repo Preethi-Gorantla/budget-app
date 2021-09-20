@@ -1,0 +1,9 @@
+.card{
+    margin: 0.8rem 0rem 0rem 1rem;
+    padding: 1rem;
+    border-radius: 30px;
+    font-size: 2rem bold;
+}
+.image{
+    width: 20%;
+}
